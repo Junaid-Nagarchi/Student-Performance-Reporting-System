@@ -8,13 +8,13 @@ The application allows managing student records, tracking subject-wise marks, an
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/1.png)
+![Dashboard](Screenshots/1.png)
 
 ### Student List
-![Student List](screenshots/2.png)
+![Student List](Screenshots/2.png)
 
 ### Student Profile
-![Student Profile](screenshots/3.png)
+![Student Profile](Screenshots/3.png)
 
 ---
 
